@@ -8,3 +8,4 @@ A platform to help programmers to:
 3. Connect with the community
 4. Supports people who are new to programming and pumps them with basics
 5. Connects users with mentors around the world
+6. Provides coders with opportunities such as jobs, interships, hackathons and coding competitions
